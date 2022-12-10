@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gkdevops
+- 👋 Hi, I’m Goutham as in @gkdevops
 - 👀 I’m interested in learning and teaching DevOps and loud
 - 💞️ I’m looking to collaborate on DevOps/Cloud related projects
 - 📫 I can be reached at Email: goutham@outlook.com and @LinkedIn: linkedin.com/in/chilakala
