@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Goutham as in @gkdevops
 - 👀 I’m interested in learning and teaching DevOps and Cloud
 - 💞️ I’m looking to collaborate on DevOps/Cloud related projects
-- 📫 I can be reached at Email: goutham@outlook.com and @LinkedIn: linkedin.com/in/chilakala
+- 📫 I can be reached at Email: goutham@outlook.com
 
 <!---
 gkdevops/gkdevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
