@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goutham Kumar
-- 👀 I’m interested in learning and teaching DevOps and Cloud Technologies
+- 👀 I’m interested in learning and sharing DevOps and Cloud Technologies
 - 💞️ I’m looking to collaborate on DevOps/Cloud related projects
 - 📫 I can be reached at goutham@outlook.com
 
